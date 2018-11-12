@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{132:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a);t.default=function(){return l.a.createElement("div",{style:{color:"purple",fontSize:"72px"}},l.a.createElement("h1",null,"Hello Gatsby!"),l.a.createElement("p",null," What a world."),l.a.createElement("img",{src:"https://source.unsplash.com/random/400x200",alt:""}))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-b31409853f0650816a35.js.map

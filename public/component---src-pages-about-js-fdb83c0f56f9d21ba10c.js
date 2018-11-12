@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{131:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a);t.default=function(){return c.a.createElement("div",{style:{color:"teal"}},c.a.createElement("h1",null," About Gatsby"),c.a.createElement("p",null,"Such wow. Very React."))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-fdb83c0f56f9d21ba10c.js.map
