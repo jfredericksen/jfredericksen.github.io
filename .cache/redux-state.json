@@ -191,7 +191,7 @@
       "resolve": "/Users/jackfredericksen/Desktop/jfredericksen.github.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "d2558f9b0746586c297becf1ae96b181",
+      "version": "32ba20dba4345e2dd96adb06aa51de99",
       "pluginOptions": {
         "plugins": []
       },
@@ -258,7 +258,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "343d8e4cb2e6c3e523339d99fed38a07",
+        "contentDigest": "c2bf893aa4c7f00ebf0f6ab1f2acef00",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -368,14 +368,14 @@
     },
     "Site": {
       "siteMetadata": {},
-      "pathPrefix": "/jfredericksen",
+      "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-11-12T04:14:14.799Z",
+      "buildTime": "2018-11-12T04:31:14.155Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f0e359b0b4eb0471e8da2fdb104ad301",
+        "contentDigest": "85f31eb5dc0175bd9e7d2d532826b0b3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -443,7 +443,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "f69a8000aeeedb17f183b542b894e652"
+    "PLUGINS_HASH": "b2f6b90d38ec03dd995e1a18920c909e"
   },
   "componentDataDependencies": {
     "nodes": {},
